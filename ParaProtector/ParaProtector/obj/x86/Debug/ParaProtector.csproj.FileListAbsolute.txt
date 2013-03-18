@@ -1,0 +1,7 @@
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\bin\x86\Debug\ParaProtector.exe
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\bin\x86\Debug\ParaProtector.pdb
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\obj\x86\Debug\ParaProtector.exe
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\obj\x86\Debug\ParaProtector.pdb
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\bin\x86\Debug\Content\fallGuy.xnb
+C:\Users\alexander.spriggs\XNA\trunk\AlexSpriggs\ParaProtector\ParaProtector\ParaProtector\bin\x86\Debug\Content\SpriteFont1.xnb
